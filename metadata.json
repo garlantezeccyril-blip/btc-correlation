@@ -1,0 +1,8 @@
+{
+  "name": "BTC Response Scanner",
+  "description": "Analyse historique et quantitative de la réaction des cryptomonnaies aux mouvements de Bitcoin (régimes, corrélations, amplification, walk-forward).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
